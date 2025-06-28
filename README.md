@@ -1,2 +1,2 @@
-# Tic-Tac-Toe-Game
+# git hub demo
 This is my first git repository 
